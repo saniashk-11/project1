@@ -1,2 +1,2 @@
 # project1
-Kotlin demo
+java project demo
